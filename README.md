@@ -11,3 +11,7 @@ Nice admin is designed by bootstrap admin panel and I wrote back-end of the nice
 
 ## Pictures
 
+
+![asdas](https://github.com/alpernae/NiceAdmin-php/blob/main/register.png)
+![asdas](https://github.com/alpernae/NiceAdmin-php/blob/main/login.png)
+![asdas](https://github.com/alpernae/NiceAdmin-php/blob/main/dashboard.png)
